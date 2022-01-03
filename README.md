@@ -5,7 +5,7 @@
 - ❗❗ I just launched my first game this past December!
 - 🤔 I’m currently learning React and Assembly
 - ✔️ 2022 Goals: Gain internship experience
-- ⚡ Fun fact: I love to airsoft and playing basketball
+- ⚡ Fun fact: I love to airsoft and play basketball
 
 ### Connect with me:
 
