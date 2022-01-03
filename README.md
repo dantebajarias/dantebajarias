@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="portfolio" width="22px" src="https://user-images.githubusercontent.com/56666947/147909649-e29268aa-45f4-48a3-9ea7-fb3d23474887.png" />][website]
+[<img align="left" alt="portfolio" width="18px" src="https://user-images.githubusercontent.com/56666947/147909649-e29268aa-45f4-48a3-9ea7-fb3d23474887.png" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
