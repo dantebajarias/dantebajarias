@@ -1,16 +1,16 @@
-### Hello, my name is Dante 
+### Hello, my name is Dante!
 
 ## I'm a Computer Science and Engineering Student at Santa Clara University
 
 - ❗❗ I just launched my first game this past December!
 - 🤔 I’m currently learning React and Assembly
 - ✔️ 2022 Goals: Gain internship experience
-- ⚡ Fun fact: I love to airsoft and 
+- ⚡ Fun fact: I love to airsoft and playing basketball
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
