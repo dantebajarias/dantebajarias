@@ -2,8 +2,8 @@
 
 ## I'm a Computer Science and Engineering Student at Santa Clara University
 
-- ❗❗ I just launched my first game this past December!
-- 🤔 I’m currently learning React and Assembly
+- ❗❗ I just launched my second Unity game!
+- 🤔 I’m currently deepening knowledge on Unity and learning Unreal Engine!
 - ✔️ 2022 Goals: Gain internship experience
 - ⚡ Fun fact: I love to airsoft and play basketball
 
