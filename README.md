@@ -3,8 +3,8 @@
 ## I'm a Computer Science and Engineering Student at Santa Clara University
 
 - ❗❗ I just launched my second Unity game!
-- 🤔 I’m currently deepening knowledge on Unity, artificial intelligence, and learning Unreal Engine!
-- ✔️ 2022 Goals: Gain internship experience
+- 🤔 I’m currently deepening knowledge on Unity, artificial intelligence, and machine learning!
+- ✔️ 2023 Goals: Gain internship experience
 - ⚡ Fun fact: I love to airsoft and play basketball
 
 ### Connect with me:
