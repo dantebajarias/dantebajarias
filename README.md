@@ -28,5 +28,5 @@
 <br />
 
 [empty]: empty
-[resume]: https://drive.google.com/file/d/1-5Xzkzfw9G1XQZXFRtV80CvsCo4IYpGF/view?usp=sharing](https://drive.google.com/file/d/1FxU3iacCLBAjTbgqHXE7TowoeduS_Mu9/view?usp=share_link
+[resume]: https://drive.google.com/file/d/1FxU3iacCLBAjTbgqHXE7TowoeduS_Mu9/view?usp=share_link
 [linkedin]: https://www.linkedin.com/in/dantebajarias/
