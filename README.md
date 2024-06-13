@@ -1,11 +1,11 @@
 ### Hello, my name is Dante!
 
-## I'm a Computer Science and Engineering Student at Santa Clara University
+## I'm a Master's of Engineering Student at UCLA
 
-- ❗❗ I just launched my second Unity game!
-- 🤔 I’m currently deepening knowledge on Unity, artificial intelligence, and machine learning!
-- ✔️ 2023 Goals: Gain internship experience
-- ⚡ Fun fact: I love to airsoft and play basketball
+- ❗❗ I have just created my first VR game design project!
+- 🤔 I’m currently deepening knowledge on Unreal 5, artificial intelligence, and machine learning!
+- ✔️ 2024 Goals: Continue my journey in game development.
+- ⚡ Fun fact: I love to airsoft and play basketball.
 
 ### Connect with me:
 
