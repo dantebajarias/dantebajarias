@@ -4,7 +4,7 @@
 
 - ❗❗ I have just created my first VR game design project!
 - 🤔 I’m currently deepening knowledge on Unreal 5, artificial intelligence, and machine learning!
-- ✔️ 2024 Goals: Continue my journey in game development.
+- ✔️ 2024 Goals: Finish my graduate school and prepare for entering industry.
 - ⚡ Fun fact: I love to airsoft and play basketball.
 
 ### Connect with me:
@@ -28,5 +28,5 @@
 <br />
 
 [empty]: empty
-[resume]: https://drive.google.com/file/d/1FxU3iacCLBAjTbgqHXE7TowoeduS_Mu9/view?usp=share_link
+[resume]: [https://drive.google.com/file/d/1FxU3iacCLBAjTbgqHXE7TowoeduS_Mu9/view?usp=share_link](https://drive.google.com/file/d/1n3MeSkIVAEma2fK4PD9ejSl6JT0RmC1A/view?usp=sharing)
 [linkedin]: https://www.linkedin.com/in/dantebajarias/
