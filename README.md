@@ -1,6 +1,6 @@
 ### Hello, my name is Dante!
 
-## I'm a Master's of Engineering Student at UCLA
+## I'm a Master of Engineering Student at UCLA
 
 - ❗❗ I have just created my first VR game design project!
 - 🤔 I’m currently deepening knowledge on Unreal 5, artificial intelligence, and machine learning!
@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="portfolio" width="18px" src="https://user-images.githubusercontent.com/56666947/147909649-e29268aa-45f4-48a3-9ea7-fb3d23474887.png" />][resume]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="portfolio" width="18px" src="https://user-images.githubusercontent.com/56666947/147909649-e29268aa-45f4-48a3-9ea7-fb3d23474887.png" target="_blank" />][resume]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />][linkedin]
 
 <br />
 
@@ -28,5 +28,5 @@
 <br />
 
 [empty]: empty
-[resume]: [https://drive.google.com/file/d/1FxU3iacCLBAjTbgqHXE7TowoeduS_Mu9/view?usp=share_link](https://drive.google.com/file/d/1n3MeSkIVAEma2fK4PD9ejSl6JT0RmC1A/view?usp=sharing)
+[resume]: https://drive.google.com/file/d/1n3MeSkIVAEma2fK4PD9ejSl6JT0RmC1A/view?usp=sharing
 [linkedin]: https://www.linkedin.com/in/dantebajarias/
